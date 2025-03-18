@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-alpine:latest
+FROM ghcr.io/linuxserver/baseimage-alpine:3.21
 
 # set version label
 ARG BUILD_DATE
